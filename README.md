@@ -3,6 +3,8 @@ Hi, I'm Alexander Kutepov. I'm a team lead and a just developer, I had created d
 
 Here, inside is something that I can give for the community for the MIT license.
 
+More projects soon... I will release the simulation for the traffic road system for the MIT license.
+
 
 
 <!--
