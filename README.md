@@ -1,6 +1,7 @@
 ### Hi there 👋
 Hi, I'm Alexander Kutepov. I'm a team lead and a just developer, I had created different things in different technologies. Sometimes it was a math or a programming language, sometimes it was an UI and etc. 
 
+Here, inside is something that I can give for the community for the MIT license.
 
 
 
