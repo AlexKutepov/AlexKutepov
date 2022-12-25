@@ -1,9 +1,9 @@
 ### Hi there 👋
-Hello everyone, my name is Alexander Kutepov. I am a developer, I have created different things in different technologies. Sometimes it is math and programming language, sometimes it's a UI and etc. 
+Hi, I'm Alexander Kutepov. I'm a team lead and a just developer, I had created different things in different technologies. Sometimes it was a math or a programming language, sometimes it was an UI and etc. 
 
-And I think that all developers  should be athletic, like a philosopher in the ancient Greece. 
 
-And I am looking for a new job. 
+
+
 <!--
 **AlexKutepov/AlexKutepov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
