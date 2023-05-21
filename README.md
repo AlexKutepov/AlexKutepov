@@ -10,7 +10,7 @@ More projects soon... I will release the simulation for the traffic road system 
 - 👯 I’m looking to collaborate on .net
 - 🤔 I’m looking for help with home deals:)
 - 💬 Ask me about 
-- 📫 How to reach me: allol@mail.ru, https://t.me/MyNewLifeHere 
+- 📫 How to reach me: allol@mail.ru
 - 😄 Pronouns: boss, master, lord
 - ⚡ Fun fact: you who are sitting here now, you are handsome 
 
