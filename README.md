@@ -1,18 +1,18 @@
 ### Hi there 👋
-Hi, I'm Alexander Kutepov. I'm a developer, I had created different things in different technologies. Sometimes it was a math or a programming language, sometimes it was an UI and etc. 
+Hi, I'm Alexander Kutepov. I'm the CEO of Astar-it.com and CTO of Fabrikainteraktiva.ru.
 
-Here, inside is something that I can give for the community for the MIT license.
+I and my team are making every type of programm: games/web apps/mobile apps and etc.
 
-More projects soon... I will release the simulation for the traffic road system for the MIT license.
-
-- 🔭 I'm currently working on pet-projects. 
+- 🔭 I'm currently working on commercial projects. 
 - 🌱 I’m currently learning Chinese 
-- 👯 I’m looking to collaborate on .net
+- 👯 I’m looking to collaborate
 - 🤔 I’m looking for help with home deals:)
 - 💬 Ask me about 
-- 📫 How to reach me: allol@mail.ru
+- 📫 How to reach me: allol@mail.ru or https://t.me/MyNewLifeHere
 - 😄 Pronouns: boss, master, lord
-- ⚡ Fun fact: you who are sitting here now, you are handsome 
+- ⚡ Fun fact: you who are sitting here now, you are handsome
+
+ Here, inside is something that I can give for the community for the MIT license.
 
 <!--
 **AlexKutepov/AlexKutepov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
