@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I'm Alexander Kutepov. I'm the CEO of Astar-it.com and CTO of Fabrikainteraktiva.ru.
+Hi, I'm Alexander Kutepov. 
 
 I and my team are making every type of programm: games/web apps/mobile apps and etc.
 
