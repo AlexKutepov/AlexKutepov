@@ -8,7 +8,7 @@ I and my team are making every type of programm: games/web apps/mobile apps and 
 - 👯 I’m looking to collaborate
 - 🤔 I’m looking for help with home deals:)
 - 💬 Ask me about 
-- 📫 How to reach me: allol@mail.ru or https://t.me/MyNewLifeHere
+- 📫 How to reach me: allol@mail.ru or https://t.me/AlexandrKutepov
 - 😄 Pronouns: my lord
 - ⚡ Fun fact: you who are sitting here now, you are handsome
 
