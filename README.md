@@ -25,7 +25,7 @@ I and my team are making every type of programm: games/web apps/mobile apps and 
 - 🤔 Ищу помощи с домашними делами :)
 - 💬 Спрашивайте меня о чем угодно.
 - 📫 Как со мной связаться:  [allol@mail.ru](mailto:allol@mail.ru) или [https://t.me/AlexandrKutepov](https://t.me/AlexandrKutepov) 
-- 😄 Мои местоимения: "ваш покорный слуга"
+- 😄 Как меня называть: "..."
 - ⚡ Забавный факт: Ты, сидящий здесь прямо сейчас, ты красавчик.
 
 Здесь, внутри, что-то, что я могу предоставить для сообщества под лицензией MIT.
@@ -41,7 +41,7 @@ I and my team are making every type of programm: games/web apps/mobile apps and 
 - 🤔 我正在寻求家务方面的帮助 :)
 - 💬 请问我任何问题。
 - 📫 如何联系我: WeChat ID: AlexandrKutepov 或 [allol@mail.ru](mailto:allol@mail.ru) 或 [https://t.me/AlexandrKutepov](https://t.me/AlexandrKutepov)
-- 😄 我的代词: "你的谦卑仆人"
+- 😄 我的名字：“白大师”
 - ⚡ 有趣的事实: 正坐在这里的你，你很帅。
 
 在这里，我可以在MIT许可下为社区提供一些东西。
