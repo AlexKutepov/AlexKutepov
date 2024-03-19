@@ -14,7 +14,7 @@ I and my team are making every type of programm: games/web apps/mobile apps and 
 
  Here, inside is something that I can give for the community for the MIT license.
 
-### Hi there 👋
+### Всем привет 👋
 Привет, меня зовут Александр Кутепов.
 
 Я и моя команда занимаемся разработкой программного обеспечения: игр, веб-приложений, мобильных приложений и многое другое.
@@ -30,6 +30,24 @@ I and my team are making every type of programm: games/web apps/mobile apps and 
 
 Здесь, внутри, что-то, что я могу предоставить для сообщества под лицензией MIT.
 
+### 你好 👋
+嗨，我是亚历山大·库特波夫。
+
+我和我的团队致力于开发各种类型的软件：游戏、网络应用程序、移动应用程序等等。
+
+- 🔭 我目前正在进行商业项目的开发。
+- 🌱 我目前正在学习汉语。
+- 👯 我希望能够合作。
+- 🤔 我正在寻求家务方面的帮助 :)
+- 💬 请问我任何问题。
+- 📫 如何联系我: [allol@mail.ru](mailto:allol@mail.ru) 或 [https://t.me/AlexandrKutepov](https://t.me/AlexandrKutepov)
+- 😄 我的代词: "你的谦卑仆人"
+- ⚡ 有趣的事实: 正坐在这里的你，你很帅。
+
+在这里，我可以在MIT许可下为社区提供一些东西。
+
+
+
 <!--
 **AlexKutepov/AlexKutepov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,11 +56,3 @@ Here are some ideas to get you started:
 
 -->
 
-
-<!--
-**AlexKutepov/AlexKutepov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
