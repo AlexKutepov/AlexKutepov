@@ -40,7 +40,7 @@ I and my team are making every type of programm: games/web apps/mobile apps and 
 - 👯 我希望能够合作。
 - 🤔 我正在寻求家务方面的帮助 :)
 - 💬 请问我任何问题。
-- 📫 如何联系我: WeChat: AlexandrKutepov 或 [allol@mail.ru](mailto:allol@mail.ru) 或 [https://t.me/AlexandrKutepov](https://t.me/AlexandrKutepov)
+- 📫 如何联系我: WeChat ID: AlexandrKutepov 或 [allol@mail.ru](mailto:allol@mail.ru) 或 [https://t.me/AlexandrKutepov](https://t.me/AlexandrKutepov)
 - 😄 我的代词: "你的谦卑仆人"
 - ⚡ 有趣的事实: 正坐在这里的你，你很帅。
 
