@@ -24,7 +24,7 @@ I and my team are making every type of programm: games/web apps/mobile apps and 
 - 👯 Ищу возможности для сотрудничества в создание игр.
 - 🤔 Ищу помощи с домашними делами :)
 - 💬 Спрашивайте меня о чем угодно.
-- 📫 Как со мной связаться: [allol@mail.ru](mailto:allol@mail.ru) или [https://t.me/AlexandrKutepov](https://t.me/AlexandrKutepov)
+- 📫 Как со мной связаться:  [allol@mail.ru](mailto:allol@mail.ru) или [https://t.me/AlexandrKutepov](https://t.me/AlexandrKutepov) 
 - 😄 Мои местоимения: "ваш покорный слуга"
 - ⚡ Забавный факт: Ты, сидящий здесь прямо сейчас, ты красавчик.
 
@@ -40,7 +40,7 @@ I and my team are making every type of programm: games/web apps/mobile apps and 
 - 👯 我希望能够合作。
 - 🤔 我正在寻求家务方面的帮助 :)
 - 💬 请问我任何问题。
-- 📫 如何联系我: [allol@mail.ru](mailto:allol@mail.ru) 或 [https://t.me/AlexandrKutepov](https://t.me/AlexandrKutepov)
+- 📫 如何联系我: WeChat: AlexandrKutepov 或 [allol@mail.ru](mailto:allol@mail.ru) 或 [https://t.me/AlexandrKutepov](https://t.me/AlexandrKutepov)
 - 😄 我的代词: "你的谦卑仆人"
 - ⚡ 有趣的事实: 正坐在这里的你，你很帅。
 
