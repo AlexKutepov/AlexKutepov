@@ -9,7 +9,7 @@ I and my team are making every type of programm: games/web apps/mobile apps and 
 - 🤔 I’m looking for help with home deals:)
 - 💬 Ask me about everything
 - 📫 How to reach me: [allol@mail.ru](mailto:allol@mail.ru) или [https://t.me/AlexandrKutepov](https://t.me/AlexandrKutepov)
-- 😄 Pronouns: my lord
+- 😄 Pronouns: Sanya
 - ⚡ Fun fact: you who are sitting here now, you are handsome
 
  Here, inside is something that I can give for the community for the MIT license.
@@ -25,7 +25,7 @@ I and my team are making every type of programm: games/web apps/mobile apps and 
 - 🤔 Ищу помощи с домашними делами :)
 - 💬 Спрашивайте меня о чем угодно.
 - 📫 Как со мной связаться:  [allol@mail.ru](mailto:allol@mail.ru) или [https://t.me/AlexandrKutepov](https://t.me/AlexandrKutepov) 
-- 😄 Как меня называть: "..."
+- 😄 Как меня называть: Саня
 - ⚡ Забавный факт: Ты, сидящий здесь прямо сейчас, ты красавчик.
 
 Здесь, внутри, что-то, что я могу предоставить для сообщества под лицензией MIT.
