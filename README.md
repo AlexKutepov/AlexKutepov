@@ -1,58 +1,105 @@
 ### Hi there 👋
-Hi, I'm Alexander Kutepov. 
+# Alexander Kutepov | Александр Кутепов | 亚历山大·库特波夫
 
-I and my team are making every type of programm: games/web apps/mobile apps and etc.
+## 🇬🇧 English
 
-- 🔭 I'm currently working on commercial projects. 
-- 🌱 I’m currently learning Chinese 
-- 👯 I’m looking to collaborate in gamedev
-- 🤔 I’m looking for help with home deals:)
-- 💬 Ask me about everything
-- 📫 How to reach me: [allol@mail.ru](mailto:allol@mail.ru) или [https://t.me/AlexandrKutepov](https://t.me/AlexandrKutepov)
-- 😄 Pronouns: Sanya
-- ⚡ Fun fact: you who are sitting here now, you are handsome
+I'm an IT entrepreneur, CEO and tech leader from Chelyabinsk, Russia. With over 10 years in IT and 5+ years in custom software development, I lead several successful technology companies.
 
- Here, inside is something that I can give for the community for the MIT license.
+### 🚀 Current Projects
+- CEO & Founder at **LEARNING THROUGH PLAY** - educational equipment for kindergartens and schools
+- Co-founder at **HOUNDS** - custom IT solutions company
+- Co-founder at **Astar IT** - software development and business process optimization
+- CTO & Technical Leader at **Taxi Richi** - innovative taxi aggregator platform (in development)
+- Co-founder of **Fitness Mate Bot** - intelligent fitness assistant
 
-### Всем привет 👋
-Привет, меня зовут Александр Кутепов.
+### 🎓 Education
+- Master's degree in Applied Mathematics and Computer Science (Statistical Modeling) - South Ural State University (2021)
+- Bachelor's degree in Applied Mathematics - South Ural State University (2019)
 
-Я и моя команда занимаемся разработкой программного обеспечения: игр, веб-приложений, мобильных приложений и многое другое.
+### 🏆 Achievements
+- Interactive wall project "Smarty 2.0" was included in the top 100 of Rosatom's "Vector 7.0" competition (2024)
+- Prize winner of Innovation Promotion Fund competitions
+- Expertise in creating ERM/CRM systems and optimizing business processes
+- Leading distributed development teams and implementing modern IT project management approaches
 
-- 🔭 В настоящее время я работаю над коммерческими проектами.
-- 🌱 В данный момент изучаю китайский язык.
-- 👯 Ищу возможности для сотрудничества в создание игр.
-- 🤔 Ищу помощи с домашними делами :)
-- 💬 Спрашивайте меня о чем угодно.
-- 📫 Как со мной связаться:  [allol@mail.ru](mailto:allol@mail.ru) или [https://t.me/AlexandrKutepov](https://t.me/AlexandrKutepov) 
-- 😄 Как меня называть: Саня
-- ⚡ Забавный факт: Ты, сидящий здесь прямо сейчас, ты красавчик.
+### 📫 Contact Me
+- Telegram: [@AlexanderKutepov](https://t.me/AlexanderKutepov)
+- Email: [allol@mail.ru](mailto:allol@mail.ru)
+- TenChat: [@AlexKutepov](https://tenchat.ru/AlexKutepov)
+- LinkedIn: [Alex Kutepov](https://www.linkedin.com/in/alex-kutepov-402074202/)
 
-Здесь, внутри, что-то, что я могу предоставить для сообщества под лицензией MIT.
+### ⚡ Interests
+- Learning languages (English, Chinese)
+- Sports (wrestling, martial arts, strength training)
+- Educational technologies
+- Software architecture
 
-### 你好 👋
-嗨，我是亚历山大·库特波夫。
+---
 
-我和我的团队致力于开发各种类型的软件：游戏、网络应用程序、移动应用程序等等。
+## 🇷🇺 Русский
 
-- 🔭 我目前正在进行商业项目的开发。
-- 🌱 我目前正在学习汉语。
-- 👯 我希望能够合作。
-- 🤔 我正在寻求家务方面的帮助 :)
-- 💬 请问我任何问题。
-- 📫 如何联系我: WeChat ID: AlexandrKutepov 或 [allol@mail.ru](mailto:allol@mail.ru) 或 [https://t.me/AlexandrKutepov](https://t.me/AlexandrKutepov)
-- 😄 我的名字：“白大师”
-- ⚡ 有趣的事实: 正坐在这里的你，你很帅。
+Я IT-предприниматель, CEO и технический лидер из Челябинска. С опытом более 10 лет в IT и более 5 лет в разработке программного обеспечения на заказ, я руковожу несколькими успешными технологическими компаниями.
 
-在这里，我可以在MIT许可下为社区提供一些东西。
+### 🚀 Текущие проекты
+- CEO и основатель **ИГРАЯ УЧИМСЯ** - производство образовательного оборудования для детских садов и школ
+- Сооснователь **ХАУНДС** - компания по разработке IT-решений
+- Сооснователь **Астар Айти** - разработка ПО и оптимизация бизнес-процессов
+- CTO и технический лидер **Такси Richi** - инновационный агрегатор такси (в разработке)
+- Сооснователь **Fitness Mate Bot** - интеллектуальный фитнес-ассистент
 
+### 🎓 Образование
+- Магистр прикладной математики и информатики (статистическое моделирование) - ЮУрГУ (2021)
+- Бакалавр прикладной математики - ЮУрГУ (2019)
 
+### 🏆 Достижения
+- Проект интерактивная стена "Умница 2.0" вошел в топ-100 конкурса Росатома "Вектор 7.0" (2024)
+- Призёр конкурсов Фонда содействия инновациям
+- Экспертиза в создании ERM/CRM систем и оптимизации бизнес-процессов
+- Руководство распределенными командами разработки и внедрение современных подходов в управлении IT-проектами
 
-<!--
-**AlexKutepov/AlexKutepov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Связаться со мной
+- Telegram: [@AlexanderKutepov](https://t.me/AlexanderKutepov)
+- Email: [allol@mail.ru](mailto:allol@mail.ru)
+- TenChat: [@AlexKutepov](https://tenchat.ru/AlexKutepov)
+- VK: [donsanche](https://vk.com/donsanche)
 
-Here are some ideas to get you started:
+### ⚡ Интересы
+- Изучение языков (английский, китайский)
+- Спорт (борьба, ударные единоборства, силовые тренировки)
+- Образовательные технологии
+- Архитектура программного обеспечения
 
+---
 
--->
+## 🇨🇳 中文
 
+我是一名来自俄罗斯车里雅宾斯克的IT企业家、CEO和技术领导者。我在IT领域拥有超过10年的经验，在定制软件开发方面拥有5年以上的经验，我领导着几家成功的技术公司。
+
+### 🚀 当前项目
+- **寓教于乐**的CEO和创始人 - 为幼儿园和学校生产教育设备
+- **HOUNDS**的联合创始人 - IT解决方案公司
+- **Astar IT**的联合创始人 - 软件开发和业务流程优化
+- **Richi出租车**的CTO和技术负责人 - 创新出租车聚合平台（开发中）
+- **健身伴侣机器人**的联合创始人 - 智能健身助手
+
+### 🎓 教育背景
+- 应用数学与计算机科学硕士（统计建模） - 南乌拉尔国立大学 (2021)
+- 应用数学学士 - 南乌拉尔国立大学 (2019)
+
+### 🏆 成就
+- 互动墙项目"智慧2.0"在2024年俄罗斯国家原子能公司"Vector 7.0"竞赛中入选前100名
+- 创新促进基金竞赛的获奖者
+- 在创建ERM/CRM系统和优化业务流程方面的专长
+- 领导分布式开发团队并实施现代IT项目管理方法
+
+### 📫 联系我
+- Telegram: [@AlexanderKutepov](https://t.me/AlexanderKutepov)
+- Email: [allol@mail.ru](mailto:allol@mail.ru)
+- WeChat: AlexandrKutepov
+- LinkedIn: [Alex Kutepov](https://www.linkedin.com/in/alex-kutepov-402074202/)
+
+### ⚡ 兴趣爱好
+- 学习语言（英语、中文）
+- 体育运动（摔跤、格斗、力量训练）
+- 教育技术
+- 软件架构 
